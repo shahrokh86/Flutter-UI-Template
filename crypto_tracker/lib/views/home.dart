@@ -96,7 +96,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
               actions: [
                 const Padding(
                   padding: EdgeInsets.only(right: 20.0),
-                  child: Icon(Icons.search),
+                  child: Icon (Icons.search),
                 ),
                 Padding(
                   padding:
